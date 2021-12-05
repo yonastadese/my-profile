@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yonas T</h1>
+<h1 align="center">Hi 👋, I'm yonas Tadesse</h1>
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [getbalemuya an angular project](getbalemuya.com)
